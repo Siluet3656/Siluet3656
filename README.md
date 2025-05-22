@@ -28,3 +28,4 @@
 
 ### Links
 [![PLAY MY GAMES](https://img.shields.io/badge/🎮_PLAY_MY_GAMES-FF2449?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=000000)](https://itch.io/profile/siluet-salat)
+[![MY KAGGLE](https://img.shields.io/badge/📊_MY_KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://www.kaggle.com/siluet)
