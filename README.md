@@ -29,3 +29,7 @@
 ### Links
 [![PLAY MY GAMES](https://img.shields.io/badge/🎮_PLAY_MY_GAMES-FF2449?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=000000)](https://itch.io/profile/siluet-salat)
 [![MY KAGGLE](https://img.shields.io/badge/📊_MY_KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://www.kaggle.com/siluet)
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siluet3656&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siluet3656&theme=dark&background=000000)](https://git.io/streak-stats) -->
